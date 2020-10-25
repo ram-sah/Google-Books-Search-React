@@ -1,8 +1,9 @@
 {
-  "name": "mern",
+  "name": "google-book-search",
   "version": "1.0.0",
   "description": "Mern Demo",
   "main": "server.js",
+  "homepage": "https://ram-sah.github.io/Google-Books-Search-React/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
