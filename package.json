@@ -24,7 +24,7 @@
   "dependencies": {
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "gh-pages": "^3.1.0",
     "if-env": "^1.0.4",
     "mongoose": "^5.10.10",
