@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import {Row, Col} from "../Grid"
+import { Row, Col } from "../Grid"
 
 const SearchResult = props => {
     return (props.books.length === 0) ? (
@@ -24,7 +24,7 @@ const SearchResult = props => {
                                         <Col size="2" className="bookImage">
                                             <img src={book.image} alt={book.title} />
                                         </Col>
-                                        <Col size="1" className="emptyCol"/>
+                                        <Col size="1" className="emptyCol" />
                                         {/* col-9 show information of the book */}
                                         <Col size="9" className="bookInfo">
                                             <Row>
@@ -44,7 +44,7 @@ const SearchResult = props => {
                                             Save Book
                                         </button>
                                         <a href={book.link} target="_blank">
-                                            <button className="viewBook btn btn-success">
+                                            <button className="viewBook btn btn-danger">
                                                 View Book
                                         </button>
                                         </a>

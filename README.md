@@ -19,7 +19,7 @@ A React-based Google Books Search app utilizes React lifecycle methods to query 
             
 * [Questions](#Questions)
 
-* [Heroku-URL](#Heroku-URL)
+* [Heroku-URL](https://google-book-search20.herokuapp.com)
 
 * [Demo](#Application-Demo)
          
@@ -33,7 +33,7 @@ npm install
         
 ## Usage
             
-Run 'node server.js' from Terminal
+Run 'npm start' from Terminal
 
 ## License 
             
@@ -50,7 +50,6 @@ This project is licensed under the MIT license.
 * MongoDB
 * React-Router-Dom
 
-
 ## Questions
             
 <img src="https://github.com/ram-sah.png" alt="avatar" style="border-radius: 50px" width="100" />
@@ -58,7 +57,7 @@ This project is licensed under the MIT license.
 If you have any questions please contact me at : rsah1@asu.edu
 ### GitHub Prifile: [ram-sah](https://github.com/ram-sah) 
 ### Repository : [Google-Books-Search-React](https://github.com/ram-sah/Google-Books-Search-React)
-### Live-URL: [Link](https://ram-sah.github.io/Google-Books-Search-React)
-### [URL of this application](   )
+### Live-APP-URL: [Heroku](https://google-book-search20.herokuapp.com/)
+
 
 ## Application-Demo 
